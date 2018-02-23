@@ -6,15 +6,6 @@
 //   console.log('While Loop', n);
 //   n++;
 // }
-// const loop = num => {
-//     if (num > 10) return;
-//     console.log(num);
-//     loop(++num);
-//   };
-  
-//  loop(1);
-//   console.log(loop);
-
 
 const countToTen = n => {
 if (n >= 10) return; 
